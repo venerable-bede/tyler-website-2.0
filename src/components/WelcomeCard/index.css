@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Exo+2:700|Oleo+Script+Swash+Caps|Raleway:300');
+
+.welcomeCard {
+  background-color: #eaf2e3;
+  padding: 50px;
+  margin: 0;
+  margin: 10px;
+  clip-path: polygon(0 0, 100% 3%, 100% 100%, 0% 100%);
+}
+
+.flexContainer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.contentContainer {
+  margin-left: 30px;
+}
+
+@media only screen and (max-width: 650px) {
+  .flexContainer {
+    flex-wrap: wrap;
+  }
+}
+
+.cardImage {
+  margin-bottom: 20px;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  font-family: 'Exo 2', sans-serif;
+  color: #f06449;
+}

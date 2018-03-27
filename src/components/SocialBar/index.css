@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Oleo+Script+Swash+Caps|Raleway:300');
+
+.socialSpacer {
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 1.45rem 1.0875rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
+
+.socialSpacer > * > * {
+  color: #f06449;
+  text-decoration: none;
+  transition: color 0.5s;
+  font-family: 'Raleway', sans-serif;
+  margin-bottom: 0;
+  margin: 10px;
+  font-size: 20px;
+}
+
+.socialSpacer > * > *:hover {
+  color: #6fc7cc;
+}
+
+.homeLink {
+  font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+.fontAwesome {
+  font-size: 40px;
+}
