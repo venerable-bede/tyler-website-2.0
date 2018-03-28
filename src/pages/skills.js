@@ -1,11 +1,16 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import WelcomeCard from '../components/WelcomeCard'
+import ContentCard from '../components/ContentCard'
+import SkillsBarChartList from '../components/SkillsBarChartList'
+import SkillsIconChartList from '../components/SkillsIconChartList'
 
-const SecondPage = () => (
+const Skills = () => (
   <div>
-    <WelcomeCard header="Hey" content="sup" />
+    <ContentCard>
+      <SkillsBarChartList />
+      <SkillsIconChartList />
+    </ContentCard>
   </div>
 )
 
-export default SecondPage
+export default Skills

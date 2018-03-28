@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
+import SocialBar from '../components/SocialBar'
 import NavigationBar from '../components/NavigationBar'
 
 import './index.css'
@@ -20,7 +21,14 @@ const TemplateWrapper = ({ children }) => (
             'webdesign, programming, development, react, javascript, code, software, engineer',
         },
       ]}
-    />
+    >
+      <link
+        rel="stylesheet"
+        href="https://use.fontawesome.com/releases/v5.0.9/css/all.css"
+        integrity="sha384-5SOiIsAziJl6AWe0HWRKTXlfcSHKmYV4RBF18PPJ173Kzn7jzMyFuTtk8JA7QQG1"
+        crossorigin="anonymous"
+      />
+    </Helmet>
     <NavigationBar />
     <div
       style={{
@@ -31,6 +39,7 @@ const TemplateWrapper = ({ children }) => (
       }}
     >
       {children()}
+      <SocialBar />
     </div>
   </div>
 )

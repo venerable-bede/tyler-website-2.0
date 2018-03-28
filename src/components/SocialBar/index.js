@@ -8,19 +8,19 @@ const SocialBar = () => (
   <div className="socialBackground">
     <div className="socialSpacer">
       <div>
-        <Link to="/page-2/">
+        <a href="https://www.instagram.com/sir_tyz">
           <FontAwesome.FaInstagram className="fontAwesome" />
-        </Link>
+        </a>
       </div>
       <div>
-        <Link to="/page-2/">
+        <a href="https://plus.google.com/u/0/+sirtytyz">
           <FontAwesome.FaGooglePlusSquare className="fontAwesome" />
-        </Link>
+        </a>
       </div>
       <div>
-        <Link to="/page-2/">
+        <a href="https://www.github.com/sirtyz">
           <FontAwesome.FaGithubSquare className="fontAwesome" />
-        </Link>
+        </a>
       </div>
     </div>
   </div>

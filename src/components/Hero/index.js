@@ -1,14 +1,14 @@
 import React from 'react'
-import './index.css'
 import Link from 'gatsby-link'
+import ButtonLink from '../Button'
+
+import './index.css'
 
 const Hero = () => {
   return (
     <div className="heroContainer">
       <div className="headText">NEED A WEB DEVELOPER?</div>
-      <Link className="subText" to="/">
-        let's talk.
-      </Link>
+      <ButtonLink>let's talk</ButtonLink>
     </div>
   )
 }
