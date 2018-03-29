@@ -10,7 +10,8 @@ const Image = props => {
       style={{
         backgroundImage: background,
         height: height,
-        backgroundSize: 'contain',
+        backgroundSize: props.imageAdjust ? props.imageAdjust : 'contain',
+        backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
       }}
     />

@@ -7,9 +7,15 @@ import './index.css'
 
 const CardWithImage = props => {
   return (
-    <div>
-      <Image height="300px" src={props.imageURL} />
-      <ContentCard className="card">{props.children}</ContentCard>
+    <div className="cardWithImage">
+      <Image height="300px" src={props.imageURL} imageAdjust="cover" />
+      <ContentCard
+        className="card"
+        marginAdjustment={0}
+        marginAdjustmentTop={-10}
+      >
+        {props.children}
+      </ContentCard>
     </div>
   )
 }

@@ -1,6 +1,6 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import avatarImg from '../../Images/Avatar_Tyler-01.67204a01.png'
+import avatarImg from '../../Images/Avatar_Tyler-01.jpg'
 import './index.css'
 
 const NavigationBar = () => (
@@ -13,11 +13,9 @@ const NavigationBar = () => (
         <Link to="/skills/">Skills</Link>
       </div>
       <div>
-        <Link to="/">Work</Link>
+        <Link to="/work/">Work</Link>
       </div>
-      <div>
-        <Link to="/">My Realm</Link>
-      </div>
+
       <div>
         <Link to="/"> Contact </Link>
       </div>
