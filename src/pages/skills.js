@@ -4,13 +4,11 @@ import ContentCard from '../components/ContentCard'
 import SkillsBarChartList from '../components/SkillsBarChartList'
 import SkillsIconChartList from '../components/SkillsIconChartList'
 
-const Skills = () => (
-  <div>
-    <ContentCard>
-      <SkillsBarChartList />
-      <SkillsIconChartList />
-    </ContentCard>
-  </div>
+const SecondPage = () => (
+  <ContentCard>
+    <SkillsBarChartList />
+    <SkillsIconChartList />
+  </ContentCard>
 )
 
-export default Skills
+export default SecondPage
