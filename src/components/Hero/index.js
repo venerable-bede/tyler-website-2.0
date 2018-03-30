@@ -8,7 +8,9 @@ const Hero = () => {
   return (
     <div className="heroContainer">
       <div className="headText">NEED A WEB DEVELOPER?</div>
-      <ButtonLink>let's talk</ButtonLink>
+      <ButtonLink link="mailto:coxtdc@gmail.com" target="_blank">
+        let's talk
+      </ButtonLink>
     </div>
   )
 }

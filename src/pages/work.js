@@ -2,6 +2,7 @@ import React from 'react'
 import Link from 'gatsby-link'
 import CardWithImage from '../components/CardWithImage'
 import serviceMasterImg from '../Images/serviceMasterMedicalScreenshot.jpg'
+import photography from '../Images/photographyScreenShot.jpg'
 import designWork from '../Images/designWork.jpg'
 import greyborough from '../Images/greyboroughScreenShot.jpg'
 import estariaDb from '../Images/estariaDb.jpg'
@@ -75,7 +76,7 @@ const Work = () => (
       </p>
     </CardWithImage>
 
-    <CardWithImage>
+    <CardWithImage imageURL={photography}>
       <h1>Photography</h1>
       <p>
         Not all websites want an illustrated look. Many times to achieve a more
