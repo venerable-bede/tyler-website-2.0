@@ -17,9 +17,7 @@ const NavigationBar = () => (
       </div>
 
       <div>
-        <a href="mailto:coxtdc@gmail.com" target="_blank">
-          Contact
-        </a>
+        <Link to="/contact/">Contact</Link>
       </div>
     </div>
   </div>

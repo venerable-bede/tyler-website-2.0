@@ -8,17 +8,22 @@
   justify-content: space-between;
   align-items: center;
 }
-
 .navSpacer > * > * {
+  margin-bottom: 0;
+}
+.navSpacer > *:nth-child(n + 2) > * {
   color: #f06449;
   text-decoration: none;
   transition: color 0.5s;
   font-family: 'Raleway', sans-serif;
-  margin-bottom: 0;
+
+  padding: 8px;
 }
 
-.navSpacer > * > *:hover {
-  color: #6fc7cc;
+.navSpacer > *:nth-child(n + 2) > *:hover {
+  color: white;
+  background-color: #8186f7;
+  clip-path: polygon(0 0, 500px 0, 250px 20%, 0 100%);
 }
 
 .homeLink {

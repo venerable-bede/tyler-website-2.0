@@ -13,7 +13,7 @@ const aboutMe = () => (
         <br />
         <i>Associate Software Engineer, 2018-Present</i>
         <p>
-          Work with Angular, Node, and React on a daily basis. Work with UX and
+          Use Angular, Node, and React on a daily basis. Work with UX and
           Marketing teams to build out public facing web pages and sites.
           Switching between technologies is crucial in this position due to the
           variance in the webpages and web related projects that my team is
@@ -64,7 +64,7 @@ const aboutMe = () => (
         <b>Harding University</b>
         <br />
         <i>Computer Science, 2013-2017</i>
-        <p>Major in Computer Science – Minor in Graphic Design</p>
+        <p>Bachelor of Computer Science – Minor in Graphic Design</p>
       </div>
       <div>
         <b>J.B. Hunt 2nd Annual Hackathon Finalist</b>

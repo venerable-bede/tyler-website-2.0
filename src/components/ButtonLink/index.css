@@ -13,7 +13,7 @@
 }
 
 .buttonStyle:hover {
-  background-color: white;
+  background-color: transparent;
   color: #8186f7;
   clip-path: polygon(0 0, 500px 0, 250px 87%, 0 100%);
 }

@@ -4,9 +4,9 @@ import './index.css'
 
 const ButtonLink = props => {
   return (
-    <a className="buttonStyle" href={props.link}>
+    <Link className="buttonStyle" to={props.link}>
       {props.children}
-    </a>
+    </Link>
   )
 }
 
