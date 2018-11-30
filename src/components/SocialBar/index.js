@@ -13,11 +13,6 @@ const SocialBar = () => (
         </a>
       </div>
       <div>
-        <a href="https://plus.google.com/u/0/+sirtytyz">
-          <FontAwesome.FaGooglePlusSquare className="fontAwesome" />
-        </a>
-      </div>
-      <div>
         <a href="https://www.github.com/sirtyz">
           <FontAwesome.FaGithubSquare className="fontAwesome" />
         </a>

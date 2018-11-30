@@ -1,0 +1,19 @@
+.skillTileStyle {
+  font-size: 25px;
+  background-color: #8186f7;
+  color: white;
+  clip-path: polygon(0 0, 500px 0, 250px 87%, 0 100%);
+  font-family: 'Raleway', sans-serif;
+  transition: background-color 500ms;
+  transition: color 500ms;
+  border-radius: 5px;
+  padding: 15px;
+  text-decoration: none;
+  max-width: 200px;
+  align-self: center;
+  margin: 10px;
+}
+
+.skillTileStyle:hover {
+  clip-path: polygon(0 0, 500px 0, 250px 87%, 0 100%);
+}

@@ -66,15 +66,6 @@ const contact = () => {
                 }}
               />
             </a>
-            <a href="https://plus.google.com/u/0/+sirtytyz" target="_blank">
-              <FontAwesome.FaGooglePlusSquare
-                style={{
-                  margin: '10',
-                  textDecoration: 'none',
-                  color: '#6FC7CC',
-                }}
-              />
-            </a>
             <a
               href="https://www.linkedin.com/in/tylercoxdesign/"
               target="_blank"
