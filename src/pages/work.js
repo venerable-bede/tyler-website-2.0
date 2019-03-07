@@ -6,6 +6,7 @@ import photography from '../Images/photographyScreenShot.jpg'
 import designWork from '../Images/designWork.jpg'
 import greyborough from '../Images/greyboroughScreenShot.jpg'
 import estariaDb from '../Images/estariaDb.jpg'
+import bozbarkImg from '../Images/bozbark-screenshot.png'
 import ButtonLink from '../components/ButtonLink'
 
 const Work = () => (
@@ -20,6 +21,13 @@ const Work = () => (
         challenging artificial intelligence were all items that were achieved in
         the creation of the game. The technologies used for this project were C#
         and Unity.
+      </p>
+    </CardWithImage>
+  
+  <CardWithImage imageURL={bozbarkImg}>
+      <a href="https://www.bozbark.com"><h1>Bozbark</h1></a>
+      <p>
+        Bozbark is a blog with "Curated information about self-reliance, doing things that are meaningful, and staying connected to reality in a digital world." Created with Gatsby, this project uses markdown files as a source for each blog post, making it purely a frontend project. 
       </p>
     </CardWithImage>
 
