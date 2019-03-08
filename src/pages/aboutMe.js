@@ -80,6 +80,14 @@ const aboutMe = () => (
         </p>
       </div>
       <div>
+        <b>J.B. Hunt 3rd Annual Hackathon Community Improvement Award Winner</b>
+        <br />
+        <i>Company Giving Official Webpage</i>
+        <p>
+          Competed against 250 contestants on teams averaging 3-4 members each over the course of a 48 hour period. My team and I created a page to fufill the need to revamp and revitalize the old and outdated company giving site used to help other non-proffits and organizations request J.B. Hunt for giving contributions. J.B. Hunt takes giving very seriously, so my team and I set out to make sure we provided a warm and welcoming place to accommodate these requests. Due to our efforts, my team was awarded with the Community Improvement award where we were recognized company-wide.
+        </p>
+      </div>
+      <div>
         <b>Eagle Scout</b>
         <br />
         <i>BSA - Boy Scouts of America</i>
