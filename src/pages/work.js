@@ -5,13 +5,14 @@ import serviceMasterImg from '../Images/serviceMasterMedicalScreenshot.jpg'
 import photography from '../Images/photographyScreenShot.jpg'
 import designWork from '../Images/designWork.jpg'
 import greyborough from '../Images/greyboroughScreenShot.jpg'
+import bbashImg from '../Images/finished_logo.png'
 import estariaDb from '../Images/estariaDb.jpg'
 import bozbarkImg from '../Images/bozbark-screenshot.png'
 import ButtonLink from '../components/ButtonLink'
 
 const Work = () => (
   <div>
-    <CardWithImage>
+    <CardWithImage imageURL={bbashImg}>
       <h1>Barbarian Bash</h1>
       <p>
         Barbarian Bash is the artistic recreation of an ancient game known as{' '}
