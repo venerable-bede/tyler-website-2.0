@@ -17,6 +17,11 @@ const SocialBar = () => (
           <FontAwesome.FaGithubSquare className="fontAwesome" />
         </a>
       </div>
+      <div>
+        <a href="https://codesandbox.io/u/SirTyz">
+          <FontAwesome.FaCode className="fontAwesome" />
+        </a>
+      </div>
     </div>
   </div>
 )

@@ -6,6 +6,7 @@
   margin: 0;
   margin: 10px;
   clip-path: polygon(0 0, 100% 3%, 100% 100%, 0% 100%);
+  border-radius: 0px 0px 8px 8px;
 }
 
 .flexContainer {
@@ -41,6 +42,12 @@ i {
 }
 
 h1 {
+  font-family: 'Exo 2', sans-serif;
+  color: #f06449;
+  margin-bottom: 10px;
+}
+
+a {
   font-family: 'Exo 2', sans-serif;
   color: #f06449;
   margin-bottom: 10px;

@@ -22,11 +22,11 @@ const SecondPage = () => (
       <div style={styles}>
         <SkillTile>CSS</SkillTile>
         <SkillTile>Python</SkillTile>
-        <SkillTile>C++</SkillTile>
         <SkillTile>PHP</SkillTile>
+        <SkillTile>Ruby</SkillTile>
       </div>
       <div style={styles}>
-        <SkillTile>Ruby</SkillTile>
+        <SkillTile>Wordpress</SkillTile>
         <SkillTile>Swift</SkillTile>
         <SkillTile>Java</SkillTile>
         <SkillTile>C#</SkillTile>
@@ -41,18 +41,14 @@ const SecondPage = () => (
       </div>
       <div style={styles}>
         <SkillTile>SVN</SkillTile>
-        <SkillTile>Microsoft DevOps</SkillTile>
+        <SkillTile>Azure DevOps</SkillTile>
         <SkillTile>Adobe Photoshop</SkillTile>
         <SkillTile>Adobe Illustrator</SkillTile>
       </div>
       <div style={styles}>
         <SkillTile>Adobe XD</SkillTile>
         <SkillTile>Visual Studio</SkillTile>
-        <SkillTile>X Code</SkillTile>
-        <SkillTile>Android Development Studio</SkillTile>
-      </div>
-      <div style={styles}>
-        <SkillTile>Docker</SkillTile>
+        <SkillTile>Netlify</SkillTile>
         <SkillTile>Heroku</SkillTile>
       </div>
     </ContentCard>
