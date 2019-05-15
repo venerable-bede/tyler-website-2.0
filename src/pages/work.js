@@ -44,15 +44,15 @@ const Work = () => (
 
     <CardWithImage imageURL={greyborough}>
       <h1>Greyborough</h1>
+      <i>Project Started: 2017</i>
       <p>
-        <i>Project Started: 2017</i>A site created for the Greyborogh homestead.
-        The site was designed to be a hub for the owner's of Greyborough to
-        place all of the social media links and to tell their story to anyone
-        who was interested in what they did. The site consisted of design work
-        such as logo creation, website layout and color scheme, as well as some
-        photography. The technologies used to build the Greyborogh site
-        consisted of AngularJS, JavaScript, HTML, CSS, Yeoman, Grunt, Sass,
-        Gulp, and Heroku.
+        A site created for the Greyborogh homestead. The site was designed to be
+        a hub for the owner's of Greyborough to place all of the social media
+        links and to tell their story to anyone who was interested in what they
+        did. The site consisted of design work such as logo creation, website
+        layout and color scheme, as well as some photography. The technologies
+        used to build the Greyborogh site consisted of AngularJS, JavaScript,
+        HTML, CSS, Yeoman, Grunt, Sass, Gulp, and Heroku.
       </p>
     </CardWithImage>
 
@@ -75,8 +75,8 @@ const Work = () => (
 
     <CardWithImage imageURL={bbashImg}>
       <h1>Barbarian Bash</h1>
+      <i>Project Started: 2016</i>
       <p>
-        <i>Project Started: 2016</i>
         Barbarian Bash is the artistic recreation of an ancient game known as{' '}
         <i>Nine Man's Morris</i>. The game was built by a team of four as a
         competition for a capstone course. Networking/Multiplayer capabilities,
