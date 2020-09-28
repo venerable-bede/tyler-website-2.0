@@ -27,7 +27,7 @@ const SecondPage = () => (
       </div>
       <div style={styles}>
         <SkillTile>Wordpress</SkillTile>
-        <SkillTile>Swift</SkillTile>
+        <SkillTile>Gatsby</SkillTile>
         <SkillTile>Java</SkillTile>
         <SkillTile>C#</SkillTile>
       </div>

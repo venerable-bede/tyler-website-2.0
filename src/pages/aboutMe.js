@@ -11,13 +11,14 @@ const aboutMe = () => (
       <div>
         <b>J.B. Hunt Transport Services, Inc.</b>
         <br />
-        <i>Associate Software Engineer, 2018-Present</i>
+        <i>Software Engineer, 2018-Present</i>
         <p>
           Use Angular, Node, and React on a daily basis. Work with UX and
           Marketing teams to build out public facing web pages and sites.
           Switching between technologies is crucial in this position due to the
           variance in the webpages and web related projects that my team is
-          responsible for.
+          responsible for. Lead developer for all Wordpress related tasks within
+          Web Dev team.
         </p>
       </div>
       <div>
@@ -84,7 +85,15 @@ const aboutMe = () => (
         <br />
         <i>Company Giving Official Webpage</i>
         <p>
-          Competed against 250 contestants on teams averaging 3-4 members each over the course of a 48 hour period. My team and I created a page to fufill the need to revamp and revitalize the old and outdated company giving site used to help other non-proffits and organizations request J.B. Hunt for giving contributions. J.B. Hunt takes giving very seriously, so my team and I set out to make sure we provided a warm and welcoming place to accommodate these requests. Due to our efforts, my team was awarded with the Community Improvement award where we were recognized company-wide.
+          Competed against 250 contestants on teams averaging 3-4 members each
+          over the course of a 48 hour period. My team and I created a page to
+          fufill the need to revamp and revitalize the old and outdated company
+          giving site used to help other non-proffits and organizations request
+          J.B. Hunt for giving contributions. J.B. Hunt takes giving very
+          seriously, so my team and I set out to make sure we provided a warm
+          and welcoming place to accommodate these requests. Due to our efforts,
+          my team was awarded with the Community Improvement award where we were
+          recognized company-wide.
         </p>
       </div>
       <div>
