@@ -109,7 +109,7 @@ const Work = () => (
         isn't affected by the diluting of information between a designer and a
         developer. Often when working with clients, art work is required to
         create a full and complete website at an affordable cost. This allows
-        the client forgo hiring a designer specifically for the site. A flat,
+        the client to forgo hiring a designer specifically for the site. A flat,
         minimalist design style is crucial for the functionality of the site to
         speak for its self.
       </p>

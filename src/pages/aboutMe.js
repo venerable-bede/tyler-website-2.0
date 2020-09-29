@@ -16,9 +16,9 @@ const aboutMe = () => (
           Use Angular, Node, and React on a daily basis. Work with UX and
           Marketing teams to build out public facing web pages and sites.
           Switching between technologies is crucial in this position due to the
-          variance in the webpages and web related projects that my team is
-          responsible for. Lead developer for all Wordpress related tasks within
-          Web Dev team.
+          variance in the webpages and web related projects for which my team is
+          responsible. Lead developer for all Wordpress related tasks within Web
+          Dev team.
         </p>
       </div>
       <div>

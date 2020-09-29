@@ -12,7 +12,7 @@ const IndexPage = () => {
         <h1>Greetings</h1>
         <p>
           I'm Tyler, a web developer and graphic designer from Arkansas. I am
-          currently working as a software engineer, and constantly find myself
+          currently working as a software engineer and constantly find myself
           coming up with new ideas for front end web development and UI design.
           Illustration fuels my creativity and I enjoy implementing it into my
           web designs when possible.
@@ -21,10 +21,10 @@ const IndexPage = () => {
           The intention of this site is to showcase what I do for those who are
           interested in my work and want to discuss the possibility of working
           with me. If you find yourself in need of a web developer, take a look
-          at the button below to see my credentials, then go check out some of
-          my work linked above. After you take a look through that, consider
-          shooting me an email or contacting me on social media so we can make
-          something awesome.
+          at the button below to see my credentials, and then go check out some
+          of my work linked above. After taking a look, consider shooting me an
+          email or contacting me on social media so we can make something
+          awesome.
         </p>
         <ButtonLink link="/aboutMe/">about me</ButtonLink>
       </ContentCard>
